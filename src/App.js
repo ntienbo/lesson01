@@ -17,7 +17,7 @@ class App extends Component {
         id: 2,
         name: "Iphone 7 64GB",
         image: "https://amp.businessinsider.com/images/5b6b59b02154a31d008b4cfe-750-500.jpg",
-        price: "25.000.000",
+        price: "21.000.000",
         status: false
       },
       {
